@@ -30,7 +30,7 @@ At first you need add this to your xray config file(If it doesn't exist) :
 },
 ```
 
-![loglevel](https://github.com/houshmand-2005/V2IpLimit/assets/77535700/e4b72d49-e523-4f7b-b22c-dd2f1c4403a3)
+![loglevel](https://github.com/MrCjxer/V2IpLimit/assets/77535700/e4b72d49-e523-4f7b-b22c-dd2f1c4403a3)
 **then save it**
 
 Attention, this script only supports Python version 3.8 and above. If your Python is old, please update it(you can check your python version with `python3 -V`).
@@ -52,7 +52,7 @@ pip install pytz
 Then clone the project
 
 ```bash
-git clone https://github.com/houshmand-2005/V2IpLimit.git
+git clone https://github.com/MrCjxer/V2IpLimit.git
 cd V2IpLimit
 cd Marzban
 ```
@@ -197,15 +197,15 @@ To change the time of the logs to your local time And considering only the IPs r
 6. **Tunneling and User IP Detection**
 
    - Tunneling returns the tunnel server IP for users. Any solutions?
-   - Tunneling poses challenges. For better IP detection, consider alternative methods [Read More Here](https://github.com/houshmand-2005/V2IpLimit/issues/3)
+   - Tunneling poses challenges. For better IP detection, consider alternative methods [Read More Here](https://github.com/MrCjxer/V2IpLimit/issues/3)
 
 7. **I'm not from Iran and script says There is no active user**
 
    - If you don't live in Iran you must replace your location in the code
-     [IP_LOCATION](https://github.com/houshmand-2005/V2IpLimit/blob/a32d314f9f32b84c0a155fbbf93ef2a68370a0ab/Marzban/v2_ip_limit.py#L27)
+     [IP_LOCATION](https://github.com/MrCjxer/V2IpLimit/blob/a32d314f9f32b84c0a155fbbf93ef2a68370a0ab/Marzban/v2_ip_limit.py#L27)
      because script only considers IPs related to your location (to increase accuracy)
      you can get your timezone and your location from https://ip-api.com/
-     Also it isf better to replace your timezone[(DATE_TIME_ZONE)](https://github.com/houshmand-2005/V2IpLimit/blob/a32d314f9f32b84c0a155fbbf93ef2a68370a0ab/Marzban/v2_ip_limit.py#L28C1-L28C1) that this site gave you so that the logs show you the correct time. [For More information read Here](https://github.com/houshmand-2005/V2IpLimit/issues/18)
+     Also it isf better to replace your timezone[(DATE_TIME_ZONE)](https://github.com/MrCjxer/V2IpLimit/blob/a32d314f9f32b84c0a155fbbf93ef2a68370a0ab/Marzban/v2_ip_limit.py#L28C1-L28C1) that this site gave you so that the logs show you the correct time. [For More information read Here](https://github.com/MrCjxer/V2IpLimit/issues/18)
 
 <hr>
 
@@ -213,7 +213,7 @@ To change the time of the logs to your local time And considering only the IPs r
 
 <br>
 
-https://github.com/houshmand-2005/V2IpLimit/assets/77535700/7881347e-8b14-4569-a3b0-bc7e5703be39
+https://github.com/MrCjxer/V2IpLimit/assets/77535700/7881347e-8b14-4569-a3b0-bc7e5703be39
 
 Additionally, a friend has created a video that you can watch here (in Persian):<br>
 https://www.youtube.com/watch?v=TbC9lhShuA8
