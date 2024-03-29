@@ -21,7 +21,7 @@ pip install docker
 To run this program
 
 ```bash
-git clone https://github.com/houshmand-2005/V2IpLimit.git
+git clone https://github.com/MrCjxer/V2IpLimit.git
 cd V2IpLimit
 cd V2RayGen
 python3 v2_ip_limit.py
